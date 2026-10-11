@@ -14,3 +14,6 @@ Este projeto não possui um programa para ser executado. Para acessar os arquivo
 ```bash
 git clone https://github.com/nicodemosoliveira64-commit/Meu-Repositorio.git
 cd Meu-Repositorio
+
+## Ciclo de trabalho com branches
+Atividade prática de pull, criação de branch, commit e push.
